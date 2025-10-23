@@ -1,0 +1,18 @@
+* d3e0d8d (rescue) Commit before reset
+| *   7e9508e (HEAD -> main, origin/main) Merge pull request #4 from Lavanyabhati/hotfix/1.0.1
+| |\  
+| |/  
+|/|   
+* | a4ec54e (origin/hotfix/1.0.1, hotfix/1.0.1) fix: resolved README.md conflict
+* | 940c995 fix: resolve critical bug in auth logic
+|/  
+* 9be65bb (tag: v1.0.0) Squash and Merge
+*   3984d44 Merge pull request #1 from Lavanyabhati/feature/auth
+|\  
+| * 72d680d (origin/feature/auth, feature/auth) fix: update README title on feature/auth
+| * e279322 fix: update README title on main
+| * 2849162 fix: update README title on main
+|/  
+* 2c671ed fix: update README title on main
+* 7faabe1 refactor: tweak auth functionality
+* e8b99b0 feat:add initial auth module
